@@ -1,4 +1,9 @@
 <?php
+/*
+ *
+ * Stories Contoller
+ *
+ */
 class Stories extends CI_Controller {
 
 
