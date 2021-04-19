@@ -2,7 +2,7 @@
 
 /*
  *
- * Data Model
+ * Stories Model
  *
  */
 defined('BASEPATH') OR exit('Forbidden');
